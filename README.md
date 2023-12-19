@@ -344,21 +344,3 @@ export async function DELETE(req: Request, context: any) {
 }
 /*.....*/
 ```
-1.    /src/app/api/user/route.ts ()
-```ts
-/*.....*/
-
-/*.....*/
-```
-1.    /src/app/api/user/route.ts ()
-```ts
-/*.....*/
-
-/*.....*/
-```
-1.    /src/app/api/user/route.ts ()
-```ts
-/*.....*/
-
-/*.....*/
-```
